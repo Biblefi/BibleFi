@@ -1,2 +1,3 @@
-# bible.fi
-The 🌎’s 1st Bible-based DeFi Farcaster mini-app on base chain.
+# BibleFi
+The 🌎’s 1st Christian-Faith-based DeFi dApp, built on Base-chain & deployed as a native Base App.
+
